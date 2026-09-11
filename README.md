@@ -72,6 +72,6 @@ This project builds a unified analytics ecosystem that integrates content perfor
 - ✅ Strategy Report
 - ✅ Content Series (sample topic-based scripts used as test subjects)
 
-## 👤 Author - Mohit Patel
+## 👤 Author 
 
-*Data science*
+*Mohit Patel*
